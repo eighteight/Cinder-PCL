@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pcl/!svn/ver/8495/trunk/io/include/pcl/io/openni_camera
+END
+openni_image_rgb24.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_image_rgb24.h
+END
+openni_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_image.h
+END
+openni_device_primesense.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_device_primesense.h
+END
+openni_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_driver.h
+END
+openni_device_kinect.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pcl/!svn/ver/8482/trunk/io/include/pcl/io/openni_camera/openni_device_kinect.h
+END
+openni_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_exception.h
+END
+openni_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pcl/!svn/ver/8495/trunk/io/include/pcl/io/openni_camera/openni_device.h
+END
+openni_device_oni.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pcl/!svn/ver/8061/trunk/io/include/pcl/io/openni_camera/openni_device_oni.h
+END
+openni_image_bayer_grbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pcl/!svn/ver/8097/trunk/io/include/pcl/io/openni_camera/openni_image_bayer_grbg.h
+END
+openni_depth_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pcl/!svn/ver/6687/trunk/io/include/pcl/io/openni_camera/openni_depth_image.h
+END
+openni_shift_to_depth_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pcl/!svn/ver/8298/trunk/io/include/pcl/io/openni_camera/openni_shift_to_depth_conversion.h
+END
+openni_ir_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_ir_image.h
+END
+openni_image_yuv_422.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_image_yuv_422.h
+END
+openni_device_xtion.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni_device_xtion.h
+END
+openni.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/pcl/!svn/ver/8011/trunk/io/include/pcl/io/openni_camera/openni.h
+END
