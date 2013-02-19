@@ -234,13 +234,19 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = VoxelGridSample_Prefix.pch;
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"$(CINDER_PATH)/boost\"",
+					"\"$(CINDER_PATH)/blocks/Cinder-PCL/include/\"",
+				);
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				OTHER_LDFLAGS = (
 					"\"$(CINDER_PATH)/lib/libcinder_d.a\"",
 					"-lcurl",
-					"\"$(CINDER_PATH)/blocks/CinderBlockPCL/lib/libpcl_common.dylib /Users/eight/repos/pcl/build/lib/libpcl_filters.dylib /Users/eight/repos/pcl/build/lib/libpcl_io.dylib $(CINDER_PATH)/blocks/CinderBlockPCL/lib/macosx/libpcl_filters.dylib $(CINDER_PATH)/blocks/CinderBlockPCL/lib/macosx/libpcl_io.dylib",
+					"\"$(CINDER_PATH)/blocks/CinderBlockPCL/lib/libpcl_common.dylib\"",
+					"\"$(CINDER_PATH)/blocks/CinderBlockPCL/lib/macosx/libpcl_filters.dylib\"",
+					"\"$(CINDER_PATH)/blocks/CinderBlockPCL/lib/macosx/libpcl_io.dylib\"",
 				);
 				PRODUCT_NAME = VoxelGridSample;
 				SYMROOT = ./build;
@@ -262,7 +268,11 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = VoxelGridSample_Prefix.pch;
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"$(CINDER_PATH)/boost\"",
+					"\"$(CINDER_PATH)/blocks/Cinder-PCL/include/\"",
+				);
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				OTHER_LDFLAGS = (
@@ -285,7 +295,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = i386;
 				CINDER_PATH = ../../../../..;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = (
@@ -305,7 +315,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = i386;
 				CINDER_PATH = ../../../../..;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = (
